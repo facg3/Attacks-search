@@ -1,6 +1,9 @@
 # Attacks-search
 Research week
 
+## XSS Attacks!
+Put simply, an XSS Attack is when the attacker gives input fields inputs effictive on the code as a whole, especially scripts which could vary in their severity.
+
 ## Man-In-The-Middle Attack
 Man In The Middle also known as JANUS attak
 
@@ -8,7 +11,7 @@ happens when the attacker relays on or changes a communication between tow sides
 
 ### Example
 
-1- eavesdropping: the attacker makes different connection between the two sides making those two sides think that they are connrcted directly 
+1- eavesdropping: the attacker makes different connection between the two sides making those two sides think that they are connected directly 
 
 
 ![example](https://scontent.fjrs2-1.fna.fbcdn.net/v/t35.0-12/25521023_10215337900783222_67684309_o.png?oh=f86c018f184c1e915496a10426fe1e83&oe=5A3A11CB)
@@ -18,7 +21,7 @@ happens when the attacker relays on or changes a communication between tow sides
 ## How to prevent:
 
 * authontocation:
-systems provides authontocation of messages such as exchange of extra  informations with messages over a secur channle, such protocales often use key agreemint protocol have been developed
+systems provides authontocation of messages such as exchange of extra  information with messages over a secur channle, such protocales often use key agreemint protocol have been developed
 
 such as,  
 
@@ -41,7 +44,7 @@ certificate of the server
 
 
 
-# Cross-Site Request Forgery (CSRF) 
+## Cross-Site Request Forgery (CSRF) 
 ![PIC](https://image.slidesharecdn.com/csrf1-170319112925/95/cross-site-request-forgery-csrf-scripting-explained-5-638.jpg?cb=1489923158)  
 
 Also known as one-click attack or session riding and abbreviated as CSRF or XSRF..
@@ -61,7 +64,6 @@ Don’t trust that the site you're visiting has measures in place to prevent CSR
 it is important to understand that you must already be authenticated into a certain website to be vulnerable. Banking or any site that performs financial transactions and has a high usage rate are the primary targets of these attacks. 
 
 There is 6 actions you can take to prevent a CSRF attack you can find [here](https://www.networkworld.com/article/3190444/security/how-to-protect-against-cross-site-request-forgery-attacks.html)
-
 
 
 
