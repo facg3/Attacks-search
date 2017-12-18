@@ -22,12 +22,17 @@ systems provides authontocation of messages such as exchange of extra  informati
 
 such as,  
 
-- HTTP Public Key Pinning, sometimes called "certificate pinning", helps prevent a MITM attack in which the certificate authority itself is compromised, by having the server provide a list of "pinned" public key hashes during the first transaction. Subsequent transactions then require one or more of the keys in the list must be used by the server in order to authenticate that transaction.
+
+### HTTP Public Key Pinning 
+
+sometimes called "certificate pinning", helps prevent a MITM attack in which the certificate authority itself is compromised, by having the server provide a list of "pinned" public key hashes during the first transaction. Subsequent transactions then require one or more of the keys in the list must be used by the server in order to authenticate that transaction.
  
 ### Tamper Detection:
+
 there is a counted time for the transaction, if the transaction takes more than that time, then there is maybe an attack
 
 ### Foresenic Analysis
+
 it monitor and analize the network trafic 
 e.i:
 check for the ip address for the server
