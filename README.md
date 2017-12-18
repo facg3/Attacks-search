@@ -4,11 +4,11 @@ Research week
 ## Man-In-The-Middle Attack
 Man In The Middle also known as JANUS attak
 
-happens when the attacker relays on or changes a communication between tow sides
+happens when the attacker relays on or changes a communication between two sides
 
 ### Example
 
-1- eavesdropping: the attacker makes different connection between the two sides making those two sides think that they are connrcted directly 
+1- Eavesdropping: the attacker makes different connection between the two sides making those two sides think that they are connrcted directly 
 
 
 ![example](https://scontent.fjrs2-1.fna.fbcdn.net/v/t35.0-12/25521023_10215337900783222_67684309_o.png?oh=f86c018f184c1e915496a10426fe1e83&oe=5A3A11CB)
